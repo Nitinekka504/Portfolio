@@ -41,10 +41,6 @@ Windows:
 git clone https://github.com/Nitinekka504/Portfolio.git
 ```
 
-### Attribution
-
-<a href="https://codewithsadee.github.io/dashboard/"><strong>➥ Live Demo</strong></a>
-
 ### License
 
 This project is **free to use** and does not contains any license.
